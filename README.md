@@ -1,4 +1,4 @@
-# -Future-Ready-Talent-Internship-Project
+# Future-Ready-Talent-Internship-Project
 This is a Foodie blog Front End website design
 
 Web Technologies used: HTML, CSS, JS
